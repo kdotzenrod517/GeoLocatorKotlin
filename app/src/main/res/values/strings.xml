@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hikers Map</string>
+    <string name="title_activity_maps">Map</string>
+	<string name="hikers_watch">hikers watch</string>
+	<string name="hikers_watch2">Hiker\'s Watch</string>
+	<string name="latitude">Latitude</string>
+	<string name="longitude">longitude</string>
+	<string name="accuracy">accuracy</string>
+	<string name="address">address</string>
+	<string name="Altitude">altitude</string>
+</resources>
